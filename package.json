@@ -1,0 +1,24 @@
+{
+  "name": "cli-fs-mngr",
+  "version": "1.0.0",
+  "description": "rs file manager task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gesifred/cli-fs-mngr.git"
+  },
+  "keywords": [
+    "file-manager",
+    "nodejs"
+  ],
+  "author": "gesifred",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gesifred/cli-fs-mngr/issues"
+  },
+  "homepage": "https://github.com/gesifred/cli-fs-mngr#readme"
+}
