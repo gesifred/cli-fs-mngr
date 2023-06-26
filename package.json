@@ -2,6 +2,7 @@
   "name": "cli-fs-mngr",
   "version": "1.0.0",
   "description": "rs file manager task",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
