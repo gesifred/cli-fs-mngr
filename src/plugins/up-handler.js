@@ -8,7 +8,6 @@ export async function upCmd(line,rl){
     if (cwd()!=="/"){
     try {
         chdir('./..');
-        //console.log(`New directory: ${cwd()}`);
         console.log(`You are currently in ${cwd()}`)
       } catch (err) {
         console.log("Operation failed");
